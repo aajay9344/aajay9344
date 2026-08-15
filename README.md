@@ -1,5 +1,13 @@
 <div align="center">
 
+<img src="https://github.com/user-attachments/assets/e7387a28-27eb-4cbe-b16f-b387e1f52336" width="100%" alt="Ajay A - GitHub Profile"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
 # 👋 Hi, I'm Ajay A
 
 ### 📊 Data Analyst • MS Office Expert • Data Entry
@@ -7,16 +15,16 @@
 
 **Turning Data into Insights & Ideas into Impact**
 
-<a href="https://ajaya.netlify.app/">
-<img src="https://img.shields.io/badge/🌐%20Portfolio-Visit%20Website-0A66C2?style=for-the-badge" />
+<a href="https://ajaya.netlify.app">
+<img src="https://img.shields.io/badge/🌐%20Portfolio-Visit%20Website-0A66C2?style=for-the-badge"/>
 </a>
 
 <a href="https://www.linkedin.com/in/ajay2005">
-<img src="https://img.shields.io/badge/LinkedIn-Ajay%20A-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/LinkedIn-Ajay%20A-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:ajay249122005@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </div>
@@ -25,113 +33,146 @@
 
 ## 🚀 About Me
 
-I'm **Ajay A**, a B.Sc. Mathematics student with a strong interest in:
+I'm **Ajay A**, a B.Sc. Mathematics student with a strong interest in **Data Analysis, Data Visualization, MS Office, Data Entry, Website Building and Accounting**.
 
-📊 Data Analysis & Data Visualization  
-📑 Microsoft Excel, Word & PowerPoint  
-⌨️ Data Entry & Documentation  
-🌐 Website Building  
-💼 Accounting & Business Data  
-📈 Power BI & Statistical Analysis  
+I enjoy working with data, solving problems, creating useful digital solutions and continuously learning new technologies.
 
----
+### 💡 What I Do
 
-## 🛠️ My Skills
-
-| Area | Skills |
-|---|---|
-| 📊 Data Analysis | Excel, Power BI, Google Sheets, SPSS, R |
-| 📑 MS Office | Excel, Word, PowerPoint |
-| 🌐 Website | WordPress, Wix |
-| 🎨 Design | Canva, UI/UX |
-| 📐 Mathematics | Statistical Analysis, MATLAB, LaTeX |
-| ⌨️ Data Work | Data Entry, Data Cleaning, Documentation |
+- 📊 Data Analysis & Data Visualization
+- 📑 Microsoft Excel, Word & PowerPoint
+- ⌨️ Data Entry & Documentation
+- 🌐 Website Building
+- 💼 Accounting & Business Data
+- 📈 Power BI & Statistical Analysis
+- 🎨 UI/UX & Digital Design
 
 ---
 
-## 📂 Featured Projects
+## 🛠️ Skills & Tools
 
-### ⚽ Application of Mathematics in Football
-Analyzed player goal maps and developed simplified goal-passing methods using geometry and probability.
+### 📊 Data & Analytics
 
-### 📦 Inventory, Production & Distribution Efficiency
+<p>
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white"/>
+<img src="https://img.shields.io/badge/SPSS-052FAD?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
+<img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge"/>
+</p>
+
+### 📑 MS Office
+
+<p>
+<img src="https://img.shields.io/badge/Word-2B579A?style=for-the-badge&logo=microsoftword&logoColor=white"/>
+<img src="https://img.shields.io/badge/PowerPoint-B7472A?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white"/>
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+<img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white"/>
+</p>
+
+### 🌐 Website & Design
+
+<p>
+<img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"/>
+<img src="https://img.shields.io/badge/Wix-000000?style=for-the-badge&logo=wix&logoColor=white"/>
+<img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
+</p>
+
+---
+
+# 📂 Featured Projects
+
+## ⚽ 1. Application of Mathematics in Football
+
+Analyzed player goal maps and developed simplified goal-passing methods using mathematical concepts such as **geometry and probability** to improve football strategies.
+
+---
+
+## 📦 2. IET – Inventory, Production & Distribution Efficiency
+
 Calculated Annual Order Quantity and analyzed juice production data to identify and reduce wastage.
 
-### 📅 Fuzzy Optimization Framework
+Contributed to improving production efficiency and resource planning.
+
+---
+
+## 📅 3. Fuzzy Optimization Framework
+
 Applied fuzzy numbers to improve assignment problems and CPM under uncertainty.
 
----
-
-## 🎓 Education
-
-**B.Sc. Mathematics**  
-Sri Krishna Arts and Science College, Coimbatore  
-**2023 – 2026 | 80%**
+The framework focuses on improving planning accuracy and reducing delays and costs in construction projects.
 
 ---
 
-## 📜 Certifications
+# 🎓 Education
 
-- IBM Data Analyst — Coursera
-- Google Data Analytics — Coursera
-- Digital Marketing Strategy and Planning — Coursera
-- Excel Skills for Data Analytics and Visualization — Coursera
-- Power BI — Amypo by SKASC
+### 🎓 B.Sc. Mathematics
+**Sri Krishna Arts and Science College, Coimbatore**
 
----
+2023 – 2026 | **80%**
 
-## 📊 GitHub Stats
+### 📘 HSC – Bio-Mathematics
+**Govt. Higher Secondary School, Melaisivapuri**
 
-<div align="center">
+2022 – 2023 | **80.6%**
 
-<img src="https://github-readme-stats.vercel.app/api?username=aajay9344&show_icons=true&theme=tokyonight&hide_border=true" />
+### 📗 SSLC – 10th
+**Govt. High School, Varpet**
 
-<br>
-
-<img src="https://streak-stats.demolab.com?user=aajay9344&theme=tokyonight&hide_border=true" />
-
-<br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aajay9344&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
+2020 – 2021 | **60%**
 
 ---
 
-## 📈 Contribution Activity
+# 📜 Certifications
 
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=aajay9344&theme=tokyo-night&hide_border=true" />
-
-</div>
+- 🏆 IBM Data Analyst — Coursera
+- 🏆 Google Data Analytics — Coursera
+- 🏆 Digital Marketing Strategy and Planning — Coursera
+- 🏆 Excel Skills for Data Analytics and Visualization — Coursera
+- 🏆 Power BI — Amypo by SKASC
 
 ---
 
-## 💼 Internship
+# 💼 Internship
 
-**Ruby Food Products Pvt. Ltd.**
+### Ruby Food Products Pvt. Ltd.
 
 **Role:** Intern  
-**May 2025 – June 2025**
+**Duration:** May 2025 – June 2025
 
-Learned about production and supply processes, reporting, communication, teamwork and presentations.
+### Key Learnings
+
+- Production and supply process
+- Communication and reporting
+- Team coordination
+- Presentation skills
+- Daily workplace problem solving
 
 ---
 
-## 📚 Publication
+# 📚 Publications
 
-**Book:** *Prambu Enra Sorga Boomi*  
+### 📖 Book
+
+**Prambu Enra Sorga Boomi**
+
 First Edition: 2025  
-ISBN: 978-93-344-0046-5
-
-**Journal:** *A Fuzzy Optimization Framework for Robust Project Scheduling and Resource Assignment*  
-IJSCI — Volume 3, Issue 3, March 2026  
-ISSN: 3049-0251
+ISBN: **978-93-344-0046-5**
 
 ---
 
-## 🌱 Volunteer
+### 📄 Journal Publication
+
+**A Fuzzy Optimization Framework for Robust Project Scheduling and Resource Assignment**
+
+Publisher: **IJSCI**  
+Volume 3, Issue 3 — March 2026  
+ISSN: **3049-0251**
+
+---
+
+# 🌱 Volunteer Activities
 
 - Matram Foundation — Physical Verification
 - Anti-Drug Club — SKASC
@@ -140,10 +181,64 @@ ISSN: 3049-0251
 
 ---
 
+# 📊 GitHub Statistics
+
 <div align="center">
 
-### ⭐ Thanks for visiting my profile!
+<img src="https://github-readme-stats.vercel.app/api?username=aajay9344&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%"/>
 
-**Discipline today, Success tomorrow. 🚀**
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aajay9344&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
+
+</div>
+
+---
+
+# 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=aajay9344&theme=tokyonight&hide_border=true" width="70%"/>
+
+</div>
+
+---
+
+# 📈 GitHub Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=aajay9344&theme=tokyo-night&hide_border=true" width="100%"/>
+
+</div>
+
+---
+
+# 🤝 Connect With Me
+
+<div align="center">
+
+📧 **Email:**  
+ajay249122005@gmail.com
+
+🌐 **Portfolio:**  
+https://ajaya.netlify.app/
+
+💼 **LinkedIn:**  
+https://www.linkedin.com/in/ajay2005
+
+📍 **Location:**  
+Pudukkottai, Tamil Nadu, India
+
+</div>
+
+---
+
+<div align="center">
+
+## ⭐ Thanks for visiting my profile!
+
+### 🚀 Discipline today, Success tomorrow.
+
+<img src="https://komarev.com/ghpvc/?username=aajay9344&label=Profile%20Views&color=0e75b6&style=flat" />
 
 </div>

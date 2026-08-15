@@ -1,43 +1,26 @@
-<div align="center">
+<div align="center"><img src="./file_00000000fc6481faa2a9f85c46178b10.png" width="100%" alt="Ajay A GitHub Profile"></div><br><div align="center">👋 Hi, I'm Ajay A
 
-<img src="https://github.com/user-attachments/assets/e7387a28-27eb-4cbe-b16f-b387e1f52336" width="100%" alt="Ajay A - GitHub Profile"/>
+📊 Data Analyst • MS Office • Data Entry
 
-</div>
+🌐 Website Builder • Accountant
 
-<br>
+Turning Data into Insights & Ideas into Impact
 
-<div align="center">
+<br><a href="https://ajaya.netlify.app/">
+<img src="https://img.shields.io/badge/🌐%20Portfolio-Visit%20Website-0A66C2?style=for-the-badge">
+</a><a href="https://www.linkedin.com/in/ajay2005">
+<img src="https://img.shields.io/badge/💼%20LinkedIn-Ajay%20A-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a><a href="mailto:ajay249122005@gmail.com">
+<img src="https://img.shields.io/badge/📧%20Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+</a></div>---
 
-# 👋 Hi, I'm Ajay A
+🚀 About Me
 
-### 📊 Data Analyst • MS Office Expert • Data Entry
-### 🌐 Website Builder • Accountant
-
-**Turning Data into Insights & Ideas into Impact**
-
-<a href="https://ajaya.netlify.app">
-<img src="https://img.shields.io/badge/🌐%20Portfolio-Visit%20Website-0A66C2?style=for-the-badge"/>
-</a>
-
-<a href="https://www.linkedin.com/in/ajay2005">
-<img src="https://img.shields.io/badge/LinkedIn-Ajay%20A-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:ajay249122005@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</div>
-
----
-
-## 🚀 About Me
-
-I'm **Ajay A**, a B.Sc. Mathematics student with a strong interest in **Data Analysis, Data Visualization, MS Office, Data Entry, Website Building and Accounting**.
+I'm Ajay A, a B.Sc. Mathematics student with a strong interest in Data Analysis, Data Visualization, MS Office, Data Entry, Website Building and Accounting.
 
 I enjoy working with data, solving problems, creating useful digital solutions and continuously learning new technologies.
 
-### 💡 What I Do
+💡 Areas of Interest
 
 - 📊 Data Analysis & Data Visualization
 - 📑 Microsoft Excel, Word & PowerPoint
@@ -45,86 +28,80 @@ I enjoy working with data, solving problems, creating useful digital solutions a
 - 🌐 Website Building
 - 💼 Accounting & Business Data
 - 📈 Power BI & Statistical Analysis
-- 🎨 UI/UX & Digital Design
+- 🎨 UI/UX Design
 
 ---
 
-## 🛠️ Skills & Tools
+🛠️ Skills & Technologies
 
-### 📊 Data & Analytics
-
-<p>
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-<img src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white"/>
-<img src="https://img.shields.io/badge/SPSS-052FAD?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
-<img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge"/>
-</p>
-
-### 📑 MS Office
+📊 Data Analysis
 
 <p>
-<img src="https://img.shields.io/badge/Word-2B579A?style=for-the-badge&logo=microsoftword&logoColor=white"/>
-<img src="https://img.shields.io/badge/PowerPoint-B7472A?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white"/>
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
-<img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white"/>
-</p>
-
-### 🌐 Website & Design
+<img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black">
+<img src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white">
+<img src="https://img.shields.io/badge/SPSS-052FAD?style=for-the-badge">
+<img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white">
+<img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge">
+</p>💻 Microsoft Office
 
 <p>
-<img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"/>
-<img src="https://img.shields.io/badge/Wix-000000?style=for-the-badge&logo=wix&logoColor=white"/>
-<img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
-</p>
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">
+<img src="https://img.shields.io/badge/Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white">
+<img src="https://img.shields.io/badge/PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white">
+<img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white">
+</p>🌐 Website & Design
 
----
+<p>
+<img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white">
+<img src="https://img.shields.io/badge/Wix-000000?style=for-the-badge&logo=wix&logoColor=white">
+<img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white">
+<img src="https://img.shields.io/badge/Picsart-000000?style=for-the-badge">
+</p>---
 
-# 📂 Featured Projects
+📂 Featured Projects
 
-## ⚽ 1. Application of Mathematics in Football
+⚽ Application of Mathematics in Football
 
-Analyzed player goal maps and developed simplified goal-passing methods using mathematical concepts such as **geometry and probability** to improve football strategies.
+Analyzed player goal maps and developed simplified goal-passing methods using mathematical concepts such as geometry and probability to improve football strategies.
 
----
-
-## 📦 2. IET – Inventory, Production & Distribution Efficiency
+📦 Inventory, Production & Distribution Efficiency
 
 Calculated Annual Order Quantity and analyzed juice production data to identify and reduce wastage.
 
 Contributed to improving production efficiency and resource planning.
 
----
-
-## 📅 3. Fuzzy Optimization Framework
+📅 Fuzzy Optimization Framework
 
 Applied fuzzy numbers to improve assignment problems and CPM under uncertainty.
 
-The framework focuses on improving planning accuracy and reducing delays and costs in construction projects.
+The project focuses on improving planning accuracy and reducing delays and costs in construction projects.
 
 ---
 
-# 🎓 Education
+🎓 Education
 
-### 🎓 B.Sc. Mathematics
-**Sri Krishna Arts and Science College, Coimbatore**
+🎓 B.Sc. Mathematics
 
-2023 – 2026 | **80%**
+Sri Krishna Arts and Science College, Coimbatore
 
-### 📘 HSC – Bio-Mathematics
-**Govt. Higher Secondary School, Melaisivapuri**
+2023 – 2026 | 80%
 
-2022 – 2023 | **80.6%**
+📘 HSC – Bio-Mathematics
 
-### 📗 SSLC – 10th
-**Govt. High School, Varpet**
+Govt. Higher Secondary School, Melaisivapuri
 
-2020 – 2021 | **60%**
+2022 – 2023 | 80.6%
+
+📗 SSLC – 10th
+
+Govt. High School, Varpet
+
+2020 – 2021 | Pass / 60%
 
 ---
 
-# 📜 Certifications
+📜 Certifications
 
 - 🏆 IBM Data Analyst — Coursera
 - 🏆 Google Data Analytics — Coursera
@@ -134,45 +111,46 @@ The framework focuses on improving planning accuracy and reducing delays and cos
 
 ---
 
-# 💼 Internship
+💼 Internship
 
-### Ruby Food Products Pvt. Ltd.
+Ruby Food Products Pvt. Ltd.
 
-**Role:** Intern  
-**Duration:** May 2025 – June 2025
+Role: Intern
+Duration: May 2025 – June 2025
 
-### Key Learnings
+Key Learnings
 
 - Production and supply process
-- Communication and reporting
+- Communication and reporting skills
 - Team coordination
 - Presentation skills
 - Daily workplace problem solving
 
 ---
 
-# 📚 Publications
+📚 Publications
 
-### 📖 Book
+📖 Book
 
-**Prambu Enra Sorga Boomi**
+Prambu Enra Sorga Boomi
 
-First Edition: 2025  
-ISBN: **978-93-344-0046-5**
+First Edition: 2025
+
+ISBN: 978-93-344-0046-5
+
+📄 Journal Publication
+
+A Fuzzy Optimization Framework for Robust Project Scheduling and Resource Assignment
+
+Publisher: IJSCI
+
+Volume 3, Issue 3 — March 2026
+
+ISSN: 3049-0251
 
 ---
 
-### 📄 Journal Publication
-
-**A Fuzzy Optimization Framework for Robust Project Scheduling and Resource Assignment**
-
-Publisher: **IJSCI**  
-Volume 3, Issue 3 — March 2026  
-ISSN: **3049-0251**
-
----
-
-# 🌱 Volunteer Activities
+🌱 Volunteer Activities
 
 - Matram Foundation — Physical Verification
 - Anti-Drug Club — SKASC
@@ -181,64 +159,30 @@ ISSN: **3049-0251**
 
 ---
 
-# 📊 GitHub Statistics
+📊 GitHub Statistics
 
-<div align="center">
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=aajay9344&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aajay9344&layout=compact&theme=tokyonight&hide_border=true" width="48%"></div>---
 
-<img src="https://github-readme-stats.vercel.app/api?username=aajay9344&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%"/>
+🔥 GitHub Streak
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aajay9344&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
+<div align="center"><img src="https://streak-stats.demolab.com?user=aajay9344&theme=tokyonight&hide_border=true" width="70%"></div>---
 
-</div>
+📈 Contribution Activity
 
----
+<div align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=aajay9344&theme=tokyo-night&hide_border=true" width="100%"></div>---
 
-# 🔥 GitHub Streak
+🤝 Connect With Me
 
-<div align="center">
+<div align="center"><a href="https://ajaya.netlify.app/">
+<img src="https://img.shields.io/badge/🌐%20Portfolio-ajaya.netlify.app-0A66C2?style=for-the-badge">
+</a><a href="https://www.linkedin.com/in/ajay2005">
+<img src="https://img.shields.io/badge/💼%20LinkedIn-Ajay%20A-0077B5?style=for-the-badge">
+</a><a href="mailto:ajay249122005@gmail.com">
+<img src="https://img.shields.io/badge/📧%20Email-ajay249122005@gmail.com-EA4335?style=for-the-badge">
+</a></div>---
 
-<img src="https://streak-stats.demolab.com?user=aajay9344&theme=tokyonight&hide_border=true" width="70%"/>
+<div align="center">⭐ Thanks for visiting my profile!
 
-</div>
+🚀 Discipline today, Success tomorrow.
 
----
-
-# 📈 GitHub Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=aajay9344&theme=tokyo-night&hide_border=true" width="100%"/>
-
-</div>
-
----
-
-# 🤝 Connect With Me
-
-<div align="center">
-
-📧 **Email:**  
-ajay249122005@gmail.com
-
-🌐 **Portfolio:**  
-https://ajaya.netlify.app/
-
-💼 **LinkedIn:**  
-https://www.linkedin.com/in/ajay2005
-
-📍 **Location:**  
-Pudukkottai, Tamil Nadu, India
-
-</div>
-
----
-
-<div align="center">
-
-## ⭐ Thanks for visiting my profile!
-
-### 🚀 Discipline today, Success tomorrow.
-
-<img src="https://komarev.com/ghpvc/?username=aajay9344&label=Profile%20Views&color=0e75b6&style=flat" />
-
-</div>
+<br><img src="https://komarev.com/ghpvc/?username=aajay9344&label=PROFILE%20VIEWS&color=0A66C2&style=for-the-badge"></div>
